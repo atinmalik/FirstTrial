@@ -1,0 +1,2 @@
+# FirstTrial
+Trying out git
